@@ -50,8 +50,6 @@ PRODUCT_PACKAGES += \
     QuickSearchBox \
     Settings \
     SharedStorageBackup \
-    Telecom \
-    TeleService \
     VpnDialogs \
     MmsService
 
